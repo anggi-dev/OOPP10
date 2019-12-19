@@ -1,12 +1,12 @@
 # OOP1
 Ini adalah project pertemuan ke 10 OOP 1, berikut daftar array list:
--ArrayList
--PertukaranNilai
--Linkedlist
--Iterator
--Hashmap
--Priorityqueue
--Stack
+* ArrayList
+* PertukaranNilai
+* Linkedlist
+* Iterator
+* Hashmap
+* Priorityqueue
+* Stack
 
 
 Berikut contoh output projek

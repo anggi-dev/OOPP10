@@ -1,5 +1,5 @@
 # OOP1
-Ini adalah project pertemuan ke 10 OOP 1, berikut daftar array list:
+Ini adalah project pertemuan ke 10 OOP 1, berikut daftar isinya:
 * ArrayList
 * PertukaranNilai
 * Linkedlist
